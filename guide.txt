@@ -1,3 +1,0 @@
-docker run --name ds-postgres -e POSTGRES_PASSWORD=digitalskola 5432:5432 -d postgres
-
-& C:/Users/Bilal/anaconda3/envs/digitalskola/python.exe
